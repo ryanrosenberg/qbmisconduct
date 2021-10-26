@@ -5,7 +5,7 @@ remote_theme: fongandrew/hydeout
 
 # Setup
 title:            Quizbowl Misconduct Reporting Form
-tagline:          'A Jekyll theme'
+tagline:          ''
 description:      'Misconduct Reporting'
 url:              https://fongandrew.github.io
 baseurl:          ''
