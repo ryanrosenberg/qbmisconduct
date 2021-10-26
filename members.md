@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Members
 sidebar_link: true
 ---
 
