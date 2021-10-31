@@ -51,4 +51,4 @@ sidebar_link: true
 <p>Yes, you can view summary statistics about reports on the <a href = '/summary'>Report Summary</a> page.</p>
 
 <i>What are the potential repercussions of a misconduct report? What sanctions might the subject of a report face?</i>
-<p>The potential outcomes of a misconduct report vary from organization to organization based on their different misconduct processes.</p>
+<p>The potential outcomes of a misconduct report vary from organization to organization based on their different misconduct processes. For the form member organizations, these may include: permanent playing, staffing, and/or writing bans; temporary suspensions; or loss of membership in the organization.</p>
