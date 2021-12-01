@@ -2,6 +2,8 @@
 markdown:         kramdown
 highlighter:      rouge
 remote_theme: fongandrew/hydeout
+kramdown:
+  parse_block_html: true
 
 # Setup
 title:            Quizbowl Misconduct Reporting Form

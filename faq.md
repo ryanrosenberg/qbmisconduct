@@ -3,52 +3,165 @@ layout: page
 title: FAQ
 sidebar_link: true
 ---
+## Glossary
+- *Misconduct:* Behavior that violates the norms of safety and respectful treatment required for the continued functioning of the quizbowl community. Common examples of misconduct include proven cheating, racial discrimination, and sexual harassment or assault.
 
-<h2>General Form Operations</h2>
-<i>Who are the current representatives on the form and which organizations do they represent?</i>
-<p>The current form representatives are Matthew Bollinger and Olivia Murton (<a href='https://acf-quizbowl.com'>ACF</a>), Emily Pike and Joel Gluskin (<a href='https://naqt.com'>NAQT</a>), Bernadette Spencer and Ryan Rosenberg (<a href='https://pace-nsc.org'>PACE</a>), and Kevin Wang (<a href='https://discord.gg/quizbowl'>Discord</a>).<p>
+- *Member organizations:* 
+Quizbowl organizations who are represented on the misconduct form. Currently, the form’s member organizations are [ACF](https://acf-quizbowl.com), [NAQT](https://naqt.com), [PACE](https://pace-nsc.org), and the [main Quizbowl Discord server](https://discord.gg/quizbowl). 
 
-<i>When should I use the misconduct form?</i>
-<p>You can use the form whenever you have concerns about inappropriate behavior from someone involved in quizbowl and any of the following are true:
+- *Misconduct (reporting) form:* Google form, available at [tinyurl.com/qbmisconduct](https://tinyurl.com/qbmisconduct), where anyone can report an incident of misconduct. Representatives of each quizbowl member organization receive reports and determine when or how to share them with their organizations.
+
+- *Form representatives:* People who have access to the misconduct form’s reports as part of their role in a member organization. Form representatives receive reports, communicate with reporters, and relay reports back to their organizations when appropriate.
+
+<span style='
+  color: $heading-color;
+  font-weight: 600;
+  line-height: 1.25;
+  margin-bottom: $heading-spacing;
+  text-rendering: optimizeLegibility;
+  font-size: 1.5rem;
+  margin-top: 1rem;'>Frequently Asked Questions</span> <i style='font-size: .75rem;'>click to expand<i>
+
+<details>
+<summary>
+Who are the current representatives on the misconduct form and which organizations do they represent? 
+</summary>
+<p>
+The current form representatives are Matthew Bollinger and Olivia Murton ([ACF](https://acf-quizbowl.com)), Emily Pike and Joel Gluskin ([NAQT](https://naqt.com)), Bernadette Spencer and Ryan Rosenberg ([PACE](https://pace-nsc.org)), and Kevin Wang ([main Quizbowl Discord server](https://discord.gg/quizbowl)).
+</p>
+</details>
+
+<details>
+<summary>
+When should I use the misconduct form?
+</summary>
+You should submit a report using the form whenever you have concerns about inappropriate behavior from someone involved in quizbowl and any of the following are true:
+<br>
 <ul>
-<li>You want any or all of the form’s member organizations (ACF, NAQT, PACE, or the main Quizbowl Discord) to begin disciplinary processes</li>
+<li>You want the form’s member organizations (ACF, NAQT, PACE, or the main Quizbowl Discord) to be aware of what happened</li>
+<li>You want any or all of the form’s member organizations to begin disciplinary processes</li>
 <li>You want your report to be passed on to another organization (e.g. a state or local quizbowl organization, a school, or some other group) that is not represented on the form</li>
 <li>You aren’t sure what you want to have happen, or you want advice on what to do</li>
-<li>You just want the organizations to be aware of what happened</li>
-</ul></p>
+</ul>
+</details>
 
-<i>Does the form itself punish people for misconduct?</i>
-<p>The ability to sanction the subjects of misconduct reports lies solely with the member organizations themselves. The form, as a group, does not decide, issue, or deliberate on punishments that a member organization could issue. The main function of the misconduct form is to determine which organization(s) should know about a report, and to make sure that information gets to the right places.</p>
+<details>
+<summary> When should I not use the misconduct form?
+</summary>
 
-<i>What happens after a report is submitted?</i>
-<p>The representatives all receive an email as soon as a misconduct report is filed. Usually, the representatives discuss the report to plan how to respond to the reporter and which organizations should receive the report. Representatives may also follow up with each other about what, if any, consequences their own organizations have chosen to pursue. The misconduct form representatives do not, on their own, choose or enforce punishments for misconduct.</p>
+You should not use the misconduct form in cases when:
 
-<i>Is there any misconduct that the committee is legally required to report (e.g. to school authorities, law enforcement, etc.)?</i>
-<p>While some of the current members may be required reporters in their home state while serving in their professional roles, none of the form representatives are legally bound to report specific behaviors reported via this form to law enforcement. However, there are certainly cases in which we would strongly encourage the reporter to inform the appropriate authorities.</p>
+- You need immediate assistance. If this is an emergency, please call 911. If you are in crisis, the Crisis Call Center Hotline is 800-273-8255, and you can use the Crisis Text Line by texting HOME to 741741 in the US. The National Sexual Assault Hotline is 800-656-4673 (HOPE), and online chat resources are available at https://hotline.rainn.org/online/.
+- You have game play issues at a tournament, including a protest, problem with a tournament schedule, or suspected cheating. These issues are the responsibility of the tournament director. We do welcome substantiated reports of cheating.
+</details>
 
-<i>In what settings can the form’s member organizations enforce consequences for misconduct?</i>
-<p>The form’s member organizations make decisions for their organizations only. The form, and its member organizations, have no official authority over events that are run by other groups. For example, an organization might choose to bar someone from staffing its own national tournaments, but cannot bar that person from staffing local tournaments. The member organizations also do not have control over, for example, school clubs, unofficial social gatherings, or online social spaces other than the hsquizbowl forums or the main Quizbowl Discord.</p>
 
-<i>I want a different organization (e.g. my local quizbowl organization, a school, a set production team) to respond to my report. Can I still use the misconduct form?</i>
-<p>Yes. Reports can ask that information be shared with other organizations and we have honored those requests in the past. We can also help you reach out to other organizations directly if you prefer.</p>
+<details>
+<summary> Do the form representatives themselves punish people for misconduct?
+</summary>
 
-<i>I’m concerned about misconduct that happened outside of an organization’s official event. Can I still report it?</i>
-<p>Yes. Organizations can choose to impose consequences for misconduct regardless of where the misconduct occurs. However, consequences will still be limited to the organization’s own jurisdiction.</p>
+No. The ability to sanction the subjects of misconduct reports lies solely with the member organizations. The form representatives, as a group, do not decide, issue, or deliberate on punishments that a member organization could issue. The main function of the misconduct form is to determine which organization(s) should know about a report, and to make sure that information gets to the right places.
+</details>
 
-<h2>Submitting Reports</h2>
-<i>Can I reach out to only one or a few representatives listed on the form with a misconduct report? If so, what effect will this have on responses to that report?</i>
-<p>Community members are welcome to reach out to select representatives; however, the misconduct form representatives (when acting as a group) generally only consider reports filed through the form. If you do not want to fill out the form yourself, you are welcome to designate someone else to do so on your behalf.</p>
+<details>
+<summary> What happens after a report is submitted?
+</summary>
 
-<h2>Handling Reports</h2>
-<i>What role do the reporter, and the person accused of misconduct, have in the process of responding to a report?</i>
-<p>Both parties have a role in the process. If they stated that they’re okay with being contacted after submitting a report, the reporter is consulted when the committee has questions or needs more information about the report. If a report is passed on to any member organizations, those organizations generally reach out to the accused to obtain their side of the story. The organizations involved in the misconduct form give the accused person a chance to defend themselves before permanent sanctions are levied.</p>
+The form representatives all receive an email as soon as a misconduct report is filed. Usually, the representatives discuss the report to plan how to respond to the reporter and decide which organizations should receive the report. Representatives may also follow up with one another about what, if any, consequences their own organizations have chosen to pursue. The misconduct form representatives do not, on their own, choose or enforce punishments for misconduct.
+</details>
 
-<i>Are decisions on sanctions in response to a report blind to the name of the perpetrator?</i>
-<p>The misconduct form representatives know the name of the alleged perpetrator when it is included in the report. Generally, that information is also passed on to the organizations, since organizations need this information in order to investigate the allegation and allow the alleged perpetrator to defend themselves. However, each member organization makes its own decisions on sanctions without regard to the person accused or their status in the community.</p>
+<details>
+<summary> Who will see my report after I’ve submitted it?
+</summary>
 
-<h2>Report Outcomes</h2>
-<i>Is there a summary of outcomes of reports available?</i>
-<p>Yes, you can view summary statistics about reports on the <a href = '/summary'>Report Summary</a> page.</p>
+All current and future form representatives will have access to submitted reports. A report may also be shared with people in the member organizations who are responsible for adjudicating misconduct reports. If the reporter gives permission, the person or people accused of misconduct will also be notified, although they will not see the content of the report itself. You will be asked for permission before your report is shared with anyone else.
+Please refer to each organization’s misconduct policy (or ask them about it) if you have questions about their internal processes. 
+</details>
 
-<i>What are the potential repercussions of a misconduct report? What sanctions might the subject of a report face?</i>
-<p>The potential outcomes of a misconduct report vary from organization to organization based on their different misconduct processes. For the form member organizations, these may include: permanent playing, staffing, and/or writing bans; temporary suspensions; or loss of membership in the organization.</p>
+<details>
+<summary> Can I submit a report anonymously?
+</summary>
+
+We cannot accept anonymous reports.
+</details>
+
+<details>
+<summary> Is there any misconduct that the form representatives are legally required to report (e.g. to school authorities, law enforcement, etc.)?
+</summary>
+
+No. Unless someone is in serious, immediate danger, we will never share information from a report with anyone without your consent. Depending on the behavior you report, we may encourage you to inform specific authorities, but neither form representatives nor the member organizations will not do so without your permission.
+
+The misconduct form is best placed to respond to misconduct within the quizbowl community. If you want to report misconduct to other authorities, you’ll receive the fastest help by doing so yourself.
+</details>
+
+<details>
+<summary> In what settings can the form’s member organizations enforce consequences for misconduct?
+</summary>
+
+The form’s member organizations make decisions for their events only. The member organizations have no official authority over events that are run by other groups. For example, an organization might choose to bar someone from staffing its own national tournaments, but cannot bar that person from staffing local tournaments that it does not organize. The member organizations also do not have control over school clubs, unofficial social gatherings, or online social spaces other than the ones they directly control. Examples of online spaces where member organizations do have jurisdiction include the hsquizbowl.org forums, which PACE governs, and the main quizbowl Discord server, which the Discord representatives manage. 
+</details>
+
+<details>
+<summary> I want a different organization that is not a member organization (e.g. my local quizbowl organization, a school, a set production team) to respond to my report. Can I still use the misconduct form?
+</summary>
+
+Yes. Reporters can ask that information be shared with other organizations, and we have honored those requests in the past. We can also help you reach out to other organizations directly if you prefer.
+</details>
+
+<details>
+<summary> I’m concerned about misconduct that happened outside of an organization’s official event. Can I still report it?
+</summary>
+
+Yes. Organizations can choose to impose consequences for misconduct regardless of where the misconduct occurs. However, consequences will still be limited to the organization’s own jurisdiction. 
+</details>
+
+<details>
+<summary> Can I reach out to only one or a few form representatives with a misconduct report? If so, what effect will this have on responses to that report?
+</summary>
+
+To date, the misconduct form representatives have only considered reports filed through the form. You are welcome to reach out to individual representatives if you have questions about how to use the form, or if you would like guidance on whether an incident should be reported. The representatives can be contacted at the email addresses listed on [tinyurl.com/qbmisconduct](https://tinyurl.com/qbmisconduct). 
+
+In rare circumstances, you may prefer to formally make your report to only a subset of the form’s representatives, without going through the actual form. You may want to take this route if:
+
+- You only want one of the form’s member organizations to respond to your report, or
+- You want to make a report about one of the representatives
+
+In these cases, please reach out individually to a form representative for guidance.
+</details>
+
+<details>
+<summary> Will my report be made public?
+</summary>
+
+The form representatives will never make a report public without the permission of the victims of the misconduct. Occasionally, if the representatives believe that stakeholders outside of the member organizations should be aware of an instance of misconduct, they may reach out to ask for permission to inform the community at large. If the reporter does not want any information to be shared, however, the representatives will take no further action to publicize the report.
+</details>
+
+<details>
+<summary> What information might the reporter, or the person accused of misconduct, be asked for after a report is filed?
+</summary>
+
+Both parties are likely to be contacted as part of the member organizations’ disciplinary processes. When filling out the form, reporters are asked for permission to be contacted by member organizations. If the reporter agrees, they will be consulted if a member organization needs more information about their report.
+
+In general, the member organizations’ disciplinary processes require them to reach out to the accused to obtain their side of the story before sanctions are levied. Reporters may request that the accused not be contacted; however, in that case, disciplinary action generally cannot proceed.
+</details>
+
+<details>
+<summary> Is there a summary of outcomes of reports available?
+</summary>
+
+Yes, you can view summary statistics about reports on the [Report Summary](/summary) page. These statistics are updated periodically. The aggregate statistics will never include any personal or identifying information about reports.
+</details>
+
+<details>
+<summary> What are the potential repercussions of a misconduct report? What sanctions might the subject of a report face?
+</summary>
+
+The potential outcomes of a misconduct report vary from organization to organization based on their different misconduct processes, and on the seriousness of the conduct being reported.
+</details>
+
+<details>
+<summary> I have a question not answered here. What do I do?
+</summary>
+
+We welcome questions and feedback! Please email [quizbowlmisconduct@gmail.com](mailto:quizbowlmisconduct@gmail.com). All current form representatives have access to this email address.
+</details>

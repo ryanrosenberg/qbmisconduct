@@ -128,3 +128,23 @@ input[type='submit'] {
   width: 100%;
   height: 100%;
 }
+
+details {
+  user-select: none;
+}
+
+summary {
+  size: 120%;
+  color: #268bd2;
+  font-weight: 600;
+  display: flex;
+  cursor: pointer;
+}
+
+details[open] summary {
+  color: $sidebar-bg-color;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
