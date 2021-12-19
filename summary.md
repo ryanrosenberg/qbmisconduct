@@ -21,7 +21,7 @@ All told, the form received 71 reports between October 2018 and October 2021; th
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> Other misconduct </td>
+   <td style="text-align:left;"> Other misconduct (not covered by other categories) </td>
    <td style="text-align:left;"> 32.4% </td>
   </tr>
   <tr>
@@ -29,7 +29,7 @@ All told, the form received 71 reports between October 2018 and October 2021; th
    <td style="text-align:left;"> 25.4% </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Gender-based misconduct </td>
+   <td style="text-align:left;"> Gender-based misconduct (not of a sexual nature) </td>
    <td style="text-align:left;"> 18.3% </td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@ All told, the form received 71 reports between October 2018 and October 2021; th
    <td style="text-align:left;"> 8.5% </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Substance-based misconduct </td>
+   <td style="text-align:left;"> Substance-based misconduct (i.e. pertaining to alcohol/drug usage) </td>
    <td style="text-align:left;"> 5.6% </td>
   </tr>
 </tbody>
