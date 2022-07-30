@@ -27,7 +27,7 @@ Quizbowl organizations who are represented on the misconduct form. Currently, th
 Who are the current representatives on the misconduct form and which organizations do they represent? 
 </summary>
 <p>
-The current form representatives are Matthew Bollinger and Olivia Murton ([ACF](https://acf-quizbowl.com)), Emily Pike and Joel Gluskin ([NAQT](https://naqt.com)), Bernadette Spencer and Ryan Rosenberg ([PACE](https://pace-nsc.org)), and Kevin Wang ([main Quizbowl Discord server](https://discord.gg/quizbowl)).
+The current form representatives are Matthew Bollinger and Caroline Mao ([ACF](https://acf-quizbowl.com)), Emily Pike and Joel Gluskin ([NAQT](https://naqt.com)), Mia McGill and Sadie Britton ([PACE](https://pace-nsc.org)), and Kevin Wang ([main Quizbowl Discord server](https://discord.gg/quizbowl)).
 </p>
 </details>
 
